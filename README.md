@@ -58,7 +58,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@msoap](https://github.com/msoap) | 409 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 10 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 11 |
 | [@aaawuanjun](https://github.com/aaawuanjun) | 1 |
 | [@imfms](https://github.com/imfms) | 1 |
 | [@free6om](https://github.com/free6om) | 1 |
